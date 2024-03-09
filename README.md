@@ -1,3 +1,9 @@
+# MiniMax with Alpha Beta Pruning Visualizer
+
+- This demo image was captured on linux running python 3.11 running `MiniMaxWithPruning` file.
+
+![demo-image](./images/demo.png)
+
 ## Implementation Details
 
 - The Minimax Tree Visualizer is implemented using the following classes and methods:
